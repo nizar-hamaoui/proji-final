@@ -20313,8 +20313,60 @@ a:hover {
   width: 650px;
 }
 
-img {
-  width: 100px;
+.div21-sec5 {
+  display: flex;
+}
+
+.img-special {
+  width: 200px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+}
+.img-special:hover {
+  transform: scale(1.1);
+}
+
+.div-img {
+  width: fit-content;
+  margin-left: 15px;
+}
+
+.dd {
+  width: 1000px;
+}
+
+.div21-sec5 {
+  width: 80%;
+  margin-top: 40px;
+  position: relative;
+  left: 10%;
+}
+
+.nav-item a {
+  color: black;
+}
+.nav-item a:hover {
+  color: #fdc200;
+}
+.nav-item a:active {
+  color: #fdc200;
+}
+
+.div1-sp {
+  padding-left: 20px;
+  border-left: 2px solid #dad8d7;
+}
+
+.tit1-sec5 {
+  position: relative;
+  left: -22px;
+  padding-left: 20px;
+  border-left: 2.5px solid #fdc200;
+}
+
+.sec5 {
+  padding-bottom: 50px;
 }
 
 /*# sourceMappingURL=app.css.map */
