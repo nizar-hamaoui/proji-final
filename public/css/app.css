@@ -20301,4 +20301,20 @@ a:hover {
   left: 47%;
 }
 
+.ddv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  width: 100%;
+}
+
+.div2-sec4 {
+  width: 650px;
+}
+
+img {
+  width: 100px;
+}
+
 /*# sourceMappingURL=app.css.map */
