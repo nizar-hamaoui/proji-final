@@ -20648,4 +20648,75 @@ a:hover {
   margin-left: 20%;
 }
 
+.con-div {
+  display: flex;
+}
+
+.sec11-div1 {
+  width: 400px;
+  box-shadow: 2px 2px 7px 5px rgba(0, 0, 0, 0.108);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.sec111-div1 {
+  display: flex;
+  margin-top: 40px;
+  gap: 25px;
+  justify-content: center;
+}
+
+.sec12-div2 {
+  width: 65%;
+}
+
+.pr1-sec11 {
+  color: grey;
+}
+
+.tit1-sec11 {
+  font-family: Brush Script MT, cursive;
+  margin-top: 20px;
+}
+
+.con-div i {
+  position: relative;
+  top: 25px;
+  font-size: 20px;
+  color: #fdc200;
+  margin-left: 20px;
+  right: 20px;
+}
+
+.div-but2 {
+  text-align: center;
+}
+.div-but2 button {
+  background-color: #ebb503;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  width: 200px;
+  margin-top: 22px;
+  transition: all 0.5s ease-in-out;
+}
+.div-but2 button:hover {
+  background-color: #c39602;
+}
+
+.div-inpu1 {
+  display: flex;
+  gap: 30px;
+}
+
+.div-inpu {
+  margin-top: 15px;
+}
+.div-inpu textarea {
+  height: 250px;
+}
+
 /*# sourceMappingURL=app.css.map */
