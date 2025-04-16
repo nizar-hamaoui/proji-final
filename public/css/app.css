@@ -21020,6 +21020,62 @@ input {
   .res5{
     font-size: 15px;
   }
+  .rr img{
+    width: 300px;
+    position: relative;
+    left: -45px;
+
+  }
+  .car2{
+    position: relative;
+    left: 60px;
+  }
+  
+  .sec6{
+    height:fit-content;
+    padding-bottom: 20px;
+  }
+  .sec7-div1{
+    display: flex;
+    flex-direction: column;
+  }
+  .sec7-img{
+    width: 330px;
+  }
+  .book-div{
+    width: 330px;
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+  }
+  .row1{
+    display: flex;
+    flex-direction: column;
+  }
+  .but1-sec7{
+    position: relative;
+    left: 50px;
+  }
+  .div11-sec8{
+    display: flex;
+    flex-direction: column;
+  }
+  .sec8{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 375px;
+  }
+  .div1-sec9{
+    display: flex;
+    flex-direction: column;
+  }
+  .img-chef{
+    width: 375px;
+  }
+  .chaf-div{
+    width: 340px;
+  }
 }
 
 /*# sourceMappingURL=app.css.map */
