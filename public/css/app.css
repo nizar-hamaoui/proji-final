@@ -20531,4 +20531,66 @@ a:hover {
   transform: scale(1.1);
 }
 
+.img-chef {
+  width: 400px;
+}
+
+.div12-sec9 {
+  width: 400px;
+}
+
+.chaf-div {
+  background-color: white;
+  width: 92%;
+  height: 100px;
+  position: relative;
+  top: -50px;
+  left: 4%;
+  box-shadow: 2px 2px 7px 5px rgba(0, 0, 0, 0.108);
+}
+
+.chaf-div {
+  display: flex;
+  align-items: center;
+}
+
+.name-chef {
+  font-size: 15px;
+  font-weight: bold;
+  border-bottom: 2px solid rgba(96, 96, 96, 0.2666666667);
+  padding-bottom: 10px;
+  margin-top: 10px;
+  width: fit-content;
+}
+
+.who {
+  color: grey;
+  font-style: italic;
+}
+
+.div-name {
+  margin-left: 10px;
+  width: 100%;
+}
+
+.chef-icons {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: 30px;
+  padding-right: 6px;
+}
+
+.bi {
+  color: grey;
+}
+
+.div1-sec9 {
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+  margin-top: 45px;
+}
+
 /*# sourceMappingURL=app.css.map */
