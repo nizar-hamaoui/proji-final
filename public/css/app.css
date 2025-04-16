@@ -20914,4 +20914,112 @@ input {
   font-family: Brush Script MT, cursive;
 }
 
+@media ( max-width:450px) {
+  .div1-car{
+    position: relative;
+    top: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    left: -60px;
+   
+    
+  }
+  .pr-car{
+    text-align:left ;
+    width: 80%;
+    font-size: medium;
+  }
+  .tit1-car{
+    font-size: 30px;
+     width: 200px;
+     text-align: left;
+     position: relative;
+     left: 20px;
+  }
+  .sec2{
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+  }
+  .sec2-div1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .rela img{
+    width: 350px;
+    position: relative;
+    left: 30px;
+    margin-top: 30px;
+  }
+  .rela a{
+
+    position: relative;
+    top: -130px  ;
+    left: 170px;
+   
+  }
+  .res1{
+    position: relative;
+    left: 20px;
+    top: -60px;
+  }
+  .tit1-ab{
+    font-size: 27px;
+    font-weight: bold;
+  }
+  .div2-sec3{
+    display: flex;
+    flex-direction: column;
+  }
+  .div21-sec3{
+    width: 350px;
+  }
+  .res2{
+    font-size: 35px;
+  }
+  .tit1-sec3{
+    position: relative;
+    left: 130px;
+  }
+  .fn-f{
+    font-size: x-large;
+  }
+  .testy{
+    width: 300px;
+   position: relative;
+   left: 30px;
+   gap: 10px;
+
+  }
+  .just-do-eat{
+    width: 375px;
+    position: relative;
+    left: -230px;
+  }
+  .div-menu{
+    width: 250px;
+  }
+  .po1{
+    width: 200px;
+  }
+  .dd{
+    width: 350px;
+  }
+  .tit1-sec3{
+    font-size: 30px;
+  }
+  .div21-sec5{
+    display: flex;
+    flex-direction: column;
+  }
+  .res4{
+    font-size: 40px;
+  }
+  .res5{
+    font-size: 15px;
+  }
+}
+
 /*# sourceMappingURL=app.css.map */
