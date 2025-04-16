@@ -20392,7 +20392,7 @@ a:hover {
   height: 630px;
 }
 
-.rela {
+.rr {
   margin-left: 11%;
 }
 
@@ -20427,6 +20427,72 @@ a:hover {
   color: white;
   position: relative;
   top: 17px;
+}
+
+.tit1-sec7 {
+  color: #fdc200;
+  background-color: #f9e0bd;
+  width: 130px;
+  padding: 7px;
+  border-radius: 20px;
+  font-size: 15px;
+  position: relative;
+  left: 46%;
+}
+
+.sec7-div1 {
+  display: flex;
+  width: 80%;
+  position: relative;
+  left: 10%;
+}
+
+.book-div {
+  background-color: rgba(181, 178, 178, 0.1098039216);
+  width: 100%;
+  border-radius: 0px 10px 10px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.row1 {
+  display: flex;
+  width: 100%;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.sec7-img {
+  width: 400px;
+  height: 500px;
+}
+
+.div1-book {
+  position: relative;
+  top: -25px;
+}
+
+.row2 {
+  position: relative;
+  top: -20px;
+}
+
+.but1-sec7 {
+  width: 200px;
+  padding: 10px;
+  background-color: #eab300;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  position: relative;
+  left: 35%;
+  font-size: 18px;
+}
+.but1-sec7:hover {
+  background-color: rgba(234, 179, 0, 0.7803921569);
 }
 
 /*# sourceMappingURL=app.css.map */
