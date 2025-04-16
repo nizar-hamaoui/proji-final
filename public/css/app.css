@@ -20593,4 +20593,59 @@ a:hover {
   margin-top: 45px;
 }
 
+.sec10 {
+  height: 480px;
+}
+
+.black-bggg {
+  width: 100%;
+  height: 480px;
+  background-color: rgba(0, 0, 0, 0.7019607843);
+  position: absolute;
+}
+
+.car3 {
+  width: 100%;
+  height: 480px;
+}
+
+.img1-car3 {
+  border-radius: 50%;
+  width: 90px;
+  border: 7px solid rgba(156, 156, 156, 0.4352941176);
+}
+
+.h4-sec10 {
+  font-family: Brush Script MT, cursive;
+  color: white;
+  font-size: 15px;
+}
+
+.carousel-inner {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  text-align: center;
+}
+.carousel-inner p {
+  font-size: 15px;
+  color: white;
+  font-weight: lighter;
+  margin-top: 10px;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+}
+
+.stars i {
+  color: #fdc200;
+  font-size: 20px;
+}
+
+.div1-car3 {
+  margin-top: 70px;
+  width: 60%;
+  margin-left: 20%;
+}
+
 /*# sourceMappingURL=app.css.map */
