@@ -20440,11 +20440,16 @@ a:hover {
   left: 46%;
 }
 
+.sec7 {
+  padding-bottom: 50px;
+}
+
 .sec7-div1 {
   display: flex;
   width: 80%;
   position: relative;
   left: 10%;
+  margin-top: 50px;
 }
 
 .book-div {
@@ -20493,6 +20498,37 @@ a:hover {
 }
 .but1-sec7:hover {
   background-color: rgba(234, 179, 0, 0.7803921569);
+}
+
+.sec8 {
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.div11-sec8 {
+  display: flex;
+  gap: 3px;
+  margin-top: 5px;
+}
+
+.div1-sec8 {
+  margin-top: 40px;
+}
+
+.div-img-sec8 {
+  overflow: hidden;
+  width: 360px;
+}
+
+.img-sec8 {
+  width: 360px;
+  cursor: pointer;
+  transition: all 0.4s ease-in-out;
+}
+.img-sec8:hover {
+  transform: scale(1.1);
 }
 
 /*# sourceMappingURL=app.css.map */
